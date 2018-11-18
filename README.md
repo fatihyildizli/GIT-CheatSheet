@@ -1,5 +1,4 @@
 # GIT-CheatSheet
-GIT-CheatSheet
 
 ## **HELP**
 
